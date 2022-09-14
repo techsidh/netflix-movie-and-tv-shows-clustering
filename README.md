@@ -1,7 +1,12 @@
 # NETFLIX-MOVIE-AND-TV-SHOWS-CLUSTERING
+About the Project 
+
+This project is all about recommending a variety of movies and TV shows to viewers, which are
+managed by the Netflix company. The platform streams the media online. Subscribers can choose
+between monthly plans and yearly plans based on how much they want to watch Netflix
+simultaneously.
 
 Problem Statement:
-
 
 This dataset consists of tv shows and movies available on Netflix as of 2019. The dataset is collected
 from Flixable which is a third-party Netflix search engine.
